@@ -9,4 +9,4 @@
 * Kotlin
 #### Code examples: [https://github.com/Patotski-AS](https://github.com/Patotski-AS)   
 #### Education: 
-* IT=Academy. Java core in 2021
+* IT-Academy. Java core in 2021
